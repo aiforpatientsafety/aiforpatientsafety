@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @aiforpatientsafety
-- 👀 I’m interested in Artificial Intelligence for patient safety improvement
-- 🌱 I’m currently learning advance AI programming
-- 💞️ I’m looking to collaborate on deep learning projects for health
+- 👀 I’m interested in Artificial Intelligence scaled for patient safety improvement
 - 📫 How to reach me: by email aiforpatientsafety@gmail.com
 
 <!---
